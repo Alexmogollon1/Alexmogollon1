@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Alexmogollon1/Alexmogollon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yuri/Yuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
